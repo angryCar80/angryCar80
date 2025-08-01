@@ -14,6 +14,21 @@
 - 📫 Contact me:
   - **Email**: ouabbasaymen@gmail.com
   - **Instagram**: [@angrycar_13](https://instagram.com/angrycar_13)
+  - **Discord**: `angryCar80`
+
+---
+
+### 💸 Support Me / Hire Me
+
+I build terminal apps, tools, and games using C++ and ncurses.  
+If you want to support me or hire me for a small project, you can:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /> ➤ Open an issue or DM  
+  <img src="https://img.icons8.com/color/48/steam.png" width="30" /> ➤ Send me a **Steam Wallet Code**  
+  <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="30" /> ➤ Message me on **Discord**  
+  <img src="https://cryptologos.cc/logos/tether-usdt-logo.png?v=026" width="30"/> ➤ Pay with **USDT (TRC20)** or crypto  
+</p>
 
 ---
 
@@ -67,7 +82,7 @@
 
 ### 📌 Quote
 
-> _\"Those who strive in Our path, We will surely guide them.\" — Qur'an 29:69_
+> _"Those who strive in Our path, We will surely guide them." — Qur'an 29:69_
 
 ---
 
@@ -80,9 +95,3 @@
 
 ---
 
-Would you like me to:
-- Help you add a **banner/header image**?
-- Create a **GIF preview** for your Pong or Top-Down game?
-- Generate custom **tech stack badges**?
-
-Just tell me what to add next, and I’ll build it with you 💪
