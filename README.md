@@ -10,33 +10,25 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on a raylib game → [A-raylib-Game](https://github.com/angryCar80/A-raylib-Game)
-- 🌱 I’m learning C++, Git, GitHub, and **Raylib**
-- 📫 Contact me:
-  - **Email**: ouabbasaymen@gmail.com
-  - **Instagram**: [@angrycar_13](https://instagram.com/angrycar_13)
-  - **Discord**: `angryCar80`
+- 🌱 I’m learning **C++, Git, GitHub**, and **Raylib**
+- 🧰 Exploring low-level systems, CLI apps with ncurses, and building a Vim clone
+- 📫 Contact me below 👇
 
 ---
 
-### 💸 Support Me / Hire Me
+### 🌐 Connect with Me
 
-I build terminal apps, tools, and games using C++ and ncurses.  
-If you want to support me or hire me for a small project, you can:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" /> ➤ Open an issue or DM  
-  <img src="https://img.icons8.com/color/48/steam.png" width="30" /> ➤ Send me a **Steam Wallet Code**  
-  <img src="https://img.icons8.com/fluency/48/discord-logo.png" width="30" /> ➤ Message me on **Discord**  
-  <img src="https://cryptologos.cc/logos/tether-usdt-logo.png?v=026" width="30"/> ➤ Pay with **USDT (TRC20)** or crypto  
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
+<p align="center">
+  <a href="mailto:ouabbasaymen@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/email-open.png" alt="Email" height="30" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/angrycar_13" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="angryCar#1337">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
 
@@ -44,7 +36,7 @@ If you want to support me or hire me for a small project, you can:
 
 ### 💻 Languages & Tools
 
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -82,16 +74,18 @@ If you want to support me or hire me for a small project, you can:
 
 ### 📌 Quote
 
-> _"Those who strive in Our path, We will surely guide them." — Qur'an 29:69_
+> _"Those who strive in Our path, We will surely guide them."_  
+> — **Qur'an 29:69**
 
 ---
 
-### 🧩 Extra ideas to add later:
+### 🧩 Extra ideas for later
 
-- Project showcase GIFs  
-- WakaTime stats (if you set it up)  
-- Link to GitHub Pages portfolio  
-- Blog section (if you ever write articles)
+- 🎥 Add gameplay GIFs for your CLI tools and Raylib games
+- ☕ Add a donation badge (Steam gift card, Discord Nitro, or Ko-fi)
+- ⌨️ Add a Dev Blog or GitHub Pages site
+- 📘 Share your Vim clone journey as a story
 
 ---
 
+**May Allah put barakah in your work and rizq. Keep building with ikhlas!** 🛠️✨
