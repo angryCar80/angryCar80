@@ -9,8 +9,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on a raylib game → [A-raylib-Game](https://github.com/angryCar80/A-raylib-Game)
-- 🌱 I’m learning **C++, Git, GitHub**, and **Raylib**
+- 🔭 I’m currently working on a raylib game → [CLI-tool](https://github.com/angryCar80/CLI-tool)
+- 🌱 I’m learning **C++, Git, GitHub**, and some of **Raylib**
 - 🧰 Exploring low-level systems, CLI apps with ncurses, and building a Vim clone
 - 📫 Contact me below 👇
 
@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="#" title="angryCar#1337">
+  <a href="#" title="angryCar13">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" />
   </a>
 </p>
@@ -46,14 +46,8 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
 </p>
 
