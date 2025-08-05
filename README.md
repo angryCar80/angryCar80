@@ -73,13 +73,4 @@
 
 ---
 
-### 🧩 Extra ideas for later
-
-- 🎥 Add gameplay GIFs for your CLI tools and Raylib games
-- ☕ Add a donation badge (Steam gift card, Discord Nitro, or Ko-fi)
-- ⌨️ Add a Dev Blog or GitHub Pages site
-- 📘 Share your Vim clone journey as a story
-
----
-
 **May Allah put barakah in your work and rizq. Keep building with ikhlas!** 🛠️✨
