@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm angryCar</h1>
-<h3 align="center">🎮 A passionate low-level game developer from Algeria 🇩🇿</h3>
+<h3 align="center">🎮 A passionate low-level programmer from Algeria 🇩🇿</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=angrycar80&label=Profile%20views&color=0e75b6&style=flat" alt="angrycar80" />
@@ -10,8 +10,8 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on a raylib game → [CLI-tool](https://github.com/angryCar80/CLI-tool)
-- 🌱 I’m learning **C++, Git, GitHub**, and some of **Raylib**
-- 🧰 Exploring low-level systems, CLI apps with ncurses, and building a Vim clone
+- 🌱 I’m learning **C++, Git, Rust**, and some of **Raylib**
+- 🧰 Exploring low-level systems, CLI apps with ncurses
 - 📫 Contact me below 👇
 
 ---
@@ -70,7 +70,3 @@
 
 > _"Those who strive in Our path, We will surely guide them."_  
 > — **Qur'an 29:69**
-
----
-
-**May Allah put barakah in your work and rizq. Keep building with ikhlas!** 🛠️✨
