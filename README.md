@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on a raylib game → [CLI-tool](https://github.com/angryCar80/CLI-tool)
-- 🌱 I’m learning **C++, Git, Rust**, and some of **Raylib**
+- 🌱 I’m learning **C++, Git, Rust and C**, and some of **Raylib**
 - 🧰 Exploring low-level systems, CLI apps with ncurses
 - 📫 Contact me below 👇
 
