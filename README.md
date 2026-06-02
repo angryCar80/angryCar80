@@ -9,10 +9,10 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on a raylib game → [CLI-tool](https://github.com/angryCar80/CLI-tool)
-- 🌱 I’m learning **C++, Git, Rust and C**, and some of **Raylib**
-- 🧰 Exploring low-level systems, CLI apps with ncurses
-- 📫 Contact me below 👇
+- 🔭 Currently building CLI tools, game-dev utilities, and Raylib projects
+- 🌱 Learning C, C++, Rust, Zig, Git, and low-level systems programming
+- 🐧 Daily driving Arch Linux + Neovim
+- 🎮 Creating games with Raylib
 
 ---
 
@@ -40,12 +40,35 @@
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+  </a>
+
+  <a href="https://ziglang.org/" target="_blank">
+    <img src="https://ziglang.org/img/zig-logo-dark.svg" alt="Zig" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.raylib.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/12966680?s=200&v=4" alt="Raylib" width="40" height="40"/>
+  </a>
+
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
+  </a>
+
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
+  </a>
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
@@ -63,10 +86,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angrycar80&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 📌 Quote
-
-> _"Those who strive in Our path, We will surely guide them."_  
-> — **Qur'an 29:69**
