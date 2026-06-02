@@ -53,9 +53,9 @@
     <img src="https://ziglang.org/img/zig-logo-dark.svg" alt="Zig" width="40" height="40"/>
   </a>
 
-  <a href="https://www.raylib.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/12966680?s=200&v=4" alt="Raylib" width="40" height="40"/>
-  </a>
+ <a href="https://www.raylib.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/raylib" alt="Raylib" width="40" height="40"/>
+</a>
 
   <a href="https://neovim.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
